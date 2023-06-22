@@ -1,10 +1,10 @@
-# tictactoe
+# TicTacToe
 
-A new Flutter project.
+Um projeto feito em Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este aplicativo foi feito num exercício de programação em Dart utilizando-se de Flutter para o layout.
 
 A few resources to get you started if this is your first Flutter project:
 
